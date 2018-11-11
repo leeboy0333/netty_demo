@@ -41,5 +41,5 @@ Netty在启动辅助类中可以灵活的配置TCP参数，满足不同的用户
 ## auto_read/readable/writeable限流
 
 ## 參考文章
-![](https://netty.io/wiki/user-guide-for-4.x.html)
-![](https://blog.csdn.net/zero__007/article/details/51326591)
+https://netty.io/wiki/user-guide-for-4.x.html<br/>
+https://blog.csdn.net/zero__007/article/details/51326591<br/>
